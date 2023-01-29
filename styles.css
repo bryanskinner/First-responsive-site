@@ -82,6 +82,7 @@ h1 {
     .flex-container-1 {
         width: 98%;
         height: 50vh;
+        text-align: center;
     }
 
     body {
